@@ -9,6 +9,7 @@ function App() {
       firstName: 'Test',
       secondName: 'Testovych',
     },
+    isVerified: true,
     nickName: "test_testovych",
     isMale: false,
     stats: {
